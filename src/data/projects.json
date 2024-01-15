@@ -1,0 +1,38 @@
+[
+  {
+    "title": "myHour",
+    "imageSrc": "projects/project.png",
+    "description": "Developed an appealing clone of MyHour.com with a focus on responsiveness and incorporating simple images.",
+    "skills": [
+      "HTML",
+      "CSS3",
+      "JavaScript"
+    ],
+    "demo": "https://my-hour.netlify.app/",
+    "source": "https://github.com/imoeee/My-Hour-Clone"
+  },
+  {
+    "title": "Ecommerce",
+    "imageSrc": "projects/project.png",
+    "description": "Designed and implemented an appealing e-commerce website with a focus on user experience.",
+    "skills": [
+      "HTML",
+      "CSS3",
+      "JavaScript"
+    ],
+    "demo": "https://ecommerce-daifuku.netlify.app/",
+    "source": "https://github.com/imoamo/Ecoomerce"
+  },
+  {
+    "title": "Portfolio",
+    "imageSrc": "projects/project.png",
+    "description": "A comprehensive portfolio project showcasing diverse skills, achievements, and projects, demonstrating expertise and versatility.",
+    "skills": [
+      "React",
+      "CSS3",
+      "JavaScript"
+    ],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
