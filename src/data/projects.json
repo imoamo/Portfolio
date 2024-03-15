@@ -1,15 +1,27 @@
 [
   {
-    "title": "myHour",
+    "title": "Apna Store",
     "imageSrc": "projects/project.png",
-    "description": "Developed an appealing clone of MyHour.com with a focus on responsiveness and incorporating simple images.",
+    "description": "This project is an Ecommerce application built with React and styled-components.It offers various...",
     "skills": [
-      "HTML",
-      "CSS3",
-      "JavaScript"
+      "React",
+      "Formspree",
+      "Auth0"
     ],
-    "demo": "https://my-hour.netlify.app/",
-    "source": "https://github.com/imoeee/My-Hour-Clone"
+    "demo": "https://apna-ecommerce-store.netlify.app/",
+    "source": "https://github.com/imoamo/React-Ecommerce-Project"
+  },
+  {
+    "title": "Zappos Clone",
+    "imageSrc": "projects/project.png",
+    "description": "This project is a clone of Zappos made with React. It includes functionality such as adding items to the ...",
+    "skills": [
+      "React",
+      "Chakra Ui",
+      "Font Awesome"
+    ],
+    "demo": "https://my-zappos-clone.netlify.app/",
+    "source": "https://github.com/imoamo/Zappos-Clone"
   },
   {
     "title": "Ecommerce",
@@ -24,15 +36,15 @@
     "source": "https://github.com/imoamo/Ecoomerce"
   },
   {
-    "title": "Portfolio",
+    "title": "myHour",
     "imageSrc": "projects/project.png",
-    "description": "A comprehensive portfolio project showcasing diverse skills, achievements, and projects, demonstrating expertise and versatility.",
+    "description": "Developed an appealing clone of MyHour.com with a focus on responsiveness and incorporating simple images.",
     "skills": [
-      "React",
+      "HTML",
       "CSS3",
       "JavaScript"
     ],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://my-hour.netlify.app/",
+    "source": "https://github.com/imoamo/My-Hour-Clone"
   }
 ]

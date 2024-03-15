@@ -2,8 +2,6 @@ import React, { useState } from 'react';
 import styles from './Navbar.module.css';
 import { getImageUrl } from '../../utils';
 
-
-
 export const Navbar = () => {
     const [menuOpen, setMenuOpen] = useState(false);
     return (
@@ -14,7 +12,7 @@ export const Navbar = () => {
                     onClick={() => { setMenuOpen(!menuOpen) }}
                 />
                 <ul className={`${styles.menuItems} ${menuOpen && styles.menuOpen}`}
-                onClick={()=>{setMenuOpen(false)}}
+                    onClick={() => { setMenuOpen(false) }}
                 >
                     <li><a href="#about">About</a></li>
                     <li><a href="#experience">Experience</a></li>
