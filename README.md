@@ -2,7 +2,7 @@
 
 This project is my personal portfolio built with React and utilizing module CSS.
 
-## View the deployed project at [https://my-port-folios.netlify.app/](https://my-port-folios.netlify.app/).
+View the deployed project at [https://my-port-folios.netlify.app/](https://my-port-folios.netlify.app/).
 
 ## Screenshots of app
 
