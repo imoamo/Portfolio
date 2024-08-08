@@ -25,4 +25,4 @@ const ProjectCard = ({ project: { title, imageSrc, description, skills, demo, so
     )
 }
 
-export default ProjectCard
+export default ProjectCard;

@@ -5,7 +5,10 @@ import './index.css'
 
 import "@fontsource/outfit";
 import "@fontsource/roboto";
+import { ChakraProvider } from '@chakra-ui/react';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <App />
-)
+  <ChakraProvider>
+    <App />
+  </ChakraProvider>
+);

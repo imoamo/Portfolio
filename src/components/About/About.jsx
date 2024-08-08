@@ -28,14 +28,15 @@ const About = () => {
                     <li className={styles.aboutItem}>
                         <img src={getImageUrl('about/uiIcon.png')} alt="UI icon" />
                         <div className={styles.aboutItemText}>
-                            <h3>UI Developer</h3>
-                            <p>I have designed landing pages and have created many user-friendly interfaces </p>
+                            <h3>Backend Developer</h3>
+                            <p>I build and maintain scalable server-side applications using Node.js, Express.js, and MongoDB.</p>
+
                         </div>
                     </li>
                 </ul>
             </div>
         </section>
     )
-}
+};
 
 export default About

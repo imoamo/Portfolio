@@ -1,7 +1,33 @@
 [
   {
+    "title": "1mg Full-stack-clone",
+    "imageSrc": "projects/6.png",
+    "description": "Tata 1mg Clone: E-commerce app with React, Node.js, and MongoDB, including authentication and cart features....",
+    "skills": [
+      "React",
+      "MongoDB",
+      " Express",
+      "node js"
+    ],
+    "demo": "https://1-mg-clone.netlify.app/",
+    "source": "https://github.com/imoamo/1mg_clone"
+  },
+  {
+    "title": "boAt-Full-stack-clone",
+    "imageSrc": "projects/5.png",
+    "description": "This project clones the boAt website with a React frontend and a backend using Express, Mongoose, and MongoDB...",
+    "skills": [
+      "React",
+      "MongoDB",
+      " Express",
+      "node js"
+    ],
+    "demo": "https://boat-life-style.netlify.app/",
+    "source": "https://github.com/imoamo/boAt-Full-stack-clone"
+  },
+  {
     "title": "Apna Store",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/1.png",
     "description": "This project is an Ecommerce application built with React and styled-components.It offers various...",
     "skills": [
       "React",
@@ -13,7 +39,7 @@
   },
   {
     "title": "Zappos Clone",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/2.png",
     "description": "This project is a clone of Zappos made with React. It includes functionality such as adding items to the ...",
     "skills": [
       "React",
@@ -25,7 +51,7 @@
   },
   {
     "title": "Ecommerce",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/3.png",
     "description": "Designed and implemented an appealing e-commerce website with a focus on user experience.",
     "skills": [
       "HTML",
@@ -37,7 +63,7 @@
   },
   {
     "title": "myHour",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/4.png",
     "description": "Developed an appealing clone of MyHour.com with a focus on responsiveness and incorporating simple images.",
     "skills": [
       "HTML",

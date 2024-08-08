@@ -21,10 +21,18 @@
   },
   {
     "title": "Github",
-    "imageSrc": "skills/mongodb.png"
+    "imageSrc": "skills/github.png"
   },
   {
     "title": "DSA",
     "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Mongodb",
+    "imageSrc": "skills/mongo.png"
+  },
+  {
+    "title": "Node.js",
+    "imageSrc": "skills/nodeJS.png"
   }
 ]

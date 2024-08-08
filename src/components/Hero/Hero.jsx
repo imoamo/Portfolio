@@ -7,9 +7,11 @@ const Hero = () => {
         <section className={styles.container}>
             <div className={styles.content}>
                 <h1 className={styles.title}>Hi, I'm Imran</h1>
-                <p className={styles.description}>I am Front-end developer with 1 years of experience using HTML , CSS and Javascript. Reach out if you'd like to learn more!</p>
-                <a href="mailto:imrankhan78626yobro@gmail.com" className={styles.contactBtn}>Contact Me</a>
+                <p className={styles.description}>Full Stack Web Developer with 1.5+ years in HTML, CSS, JavaScript, React, MongoDB, Node.js, and Express.js. Connect to see what I can do!</p>
+
+                <a href="https://resume-builder-test-new.masaischool.com/resume/public?resumeId=66a392316e6b499ee3362dbf" target='_blank' className={styles.contactBtn}>Resume</a>
             </div>
+
             <img src={getImageUrl("hero/heroImage.png")} alt='Hero image of me' className={styles.heroImg} />
             <div className={styles.topBlur} />
             <div className={styles.bottomBlur} />
@@ -17,4 +19,4 @@ const Hero = () => {
     )
 }
 
-export default Hero
+export default Hero;
